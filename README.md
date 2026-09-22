@@ -7,7 +7,7 @@
 <p><b>Me chamo Anderson, sou desenvolvedor web freelancer — AndersonDev.</b></p>
 
 - 💻 Crio sites profissionais, modernos e responsivos
-- 🏥 Especialista em sites para clínicas, odontologia e advocacia
+- 🏢 Atendo empresas e profissionais de todos os segmentos
 - 🚀 Disponível para novos projetos
 - 📲 Vamos conversar sobre o site do seu negócio!
 
