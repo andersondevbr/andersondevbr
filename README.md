@@ -1,3 +1,5 @@
+<img src="./banner.png" width="100%" alt="AndersonDev" />
+
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Programando" />
 
 <h1>Olá, seja bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" /></h1>
